@@ -1,0 +1,14 @@
+.venv
+.vscode
+__pycache__
+
+agent_storage
+logs
+results
+eval_results
+
+*.sbatch
+*.log
+
+
+project_env
